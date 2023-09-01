@@ -25,6 +25,7 @@ You can try the game live [here](link-to-your-live-demo-if-available).
 
    ```bash
    git clone https://github.com/yourusername/blackjack-game.git
+   
 Usage
 
 Open the index.html file in your web browser to play the game.
@@ -44,7 +45,3 @@ Simple and intuitive user interface.
 Realistic card drawing with random values.
 Keeps track of your current score.
 Message updates based on your progress in the game.
-
-
-
-
