@@ -1,6 +1,6 @@
 # Blackjack Game
 
-![Blackjack](![image](https://github.com/sanjay-k-j/BlackJack_using_javascript/assets/79088504/392d3b35-5c1c-427e-8e45-5d1443d61202))
+![image](https://github.com/sanjay-k-j/BlackJack_using_javascript/assets/79088504/392d3b35-5c1c-427e-8e45-5d1443d61202)
 
 ## Table of Contents
 
