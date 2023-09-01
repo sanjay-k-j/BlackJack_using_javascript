@@ -1,0 +1,35 @@
+h1{
+    color: red;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("images/dark.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}   
+
+#message-el{
+    font-style: italic;
+}
+
+button{
+    color: black;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(113, 113, 205);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+div{
+    display: flex; /* This turns the container into a flex container */
+    justify-content: space-between; /* Distribute items evenly along the main axis */
+    align-items: center; 
+    flex-direction: column;
+}
