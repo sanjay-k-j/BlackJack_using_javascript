@@ -18,7 +18,7 @@ This is a simple implementation of a Blackjack game in JavaScript. It allows you
 
 ## Demo
 
-You can try the game live [here](link-to-your-live-demo-if-available).
+You can try the game live [here](https://www.youtube.com/watch?v=XMPIeq_b488).
 
 ## Installation
 
