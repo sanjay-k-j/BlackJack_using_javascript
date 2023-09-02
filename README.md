@@ -13,6 +13,7 @@
 - [License](#license)
 
 ## Description
+The HTML page (`index.html`) presents the rules of the game Blackjack in an easy-to-read format. It includes a centered button that, when clicked, will redirect the user to another page (`index.html`). Additionally, the page utilizes an external CSS file (`rules.css`) to style the content and button.
 
 This is a simple implementation of a Blackjack game in JavaScript. It allows you to play the classic card game where the goal is to get as close to 21 points as possible without going over.
 
