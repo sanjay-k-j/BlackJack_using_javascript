@@ -1,0 +1,51 @@
+/* Add this CSS to a separate file or in a <style> tag within your HTML file */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('../images/bg.jpg');
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+li {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 10px;
+}
+/* CSS for center-aligned button */
+.center-button {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Styling for the button */
+.center-button button#myButton {
+    background-color: #007BFF; /* Button background color */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Padding around the text */
+    border: none; /* Remove default button border */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 16px; /* Font size */
+    cursor: pointer; /* Change cursor on hover */
+}
+
+/* Hover effect for the button */
+.center-button button#myButton:hover {
+    background-color: #0056b3; /* Button background color on hover */
+}
