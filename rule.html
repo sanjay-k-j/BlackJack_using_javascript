@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page 1</title>
+    <link rel="stylesheet" href="rules.css">
+</head>
+<body>
+    <h1>Rules of BlackJack </h1>
+
+    <ul>
+        <li>The objective of the game is to beat the dealer by having a hand value closer to 21 than the dealer's hand without going over 21.</li>
+        <li>Each player, including the dealer, is dealt two cards initially.</li>
+        <li>Number cards (2-10) are worth their face value. Face cards (King, Queen, Jack) are each worth 10 points, and Aces can be worth 1 or 11 points, depending on what's more favorable for the player.</li>
+        <li>If a player is dealt an Ace and a 10-value card (10, Jack, Queen, King) as their initial two cards, it's called a "Blackjack," and they win 1.5 times their bet (unless the dealer also has a Blackjack, resulting in a push or tie).</li>
+        <li>Players take turns deciding whether to "hit" (take an additional card) or "stand" (keep their current hand). The goal is to get as close to 21 as possible without exceeding it.</li>
+        <li>If a player's hand exceeds 21 points, they "bust" and lose the round automatically.</li>
+    </ul>
+
+    <div class="center-button">
+        <button id="myButton">Click Me</button>
+    </div>
+
+    <script>
+        // JavaScript to handle the button click event
+        document.getElementById("myButton").addEventListener("click", function() {
+            // Redirect to page2.html
+            window.location.href = "index.html"
+        });
+    </script>
+</body>
+</html>
