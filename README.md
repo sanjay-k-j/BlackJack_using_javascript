@@ -1,4 +1,5 @@
 # Blackjack Game
+![image](https://github.com/sanjay-k-j/BlackJack_using_javascript/assets/79088504/86caf724-f1d3-4d2a-89a3-b37fe5dfaf35)
 
 ![image](https://github.com/sanjay-k-j/BlackJack_using_javascript/assets/79088504/392d3b35-5c1c-427e-8e45-5d1443d61202)
 
